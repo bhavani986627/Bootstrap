@@ -1,0 +1,10 @@
+h2{
+    color: blue;
+    background-color: orange;
+    padding: 10px;
+}
+p{
+    background-image: url("Images/m4.jpg");
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
